@@ -1,2 +1,2 @@
 # JS-Advanced
-problem solving 
+exercises, leveling up,newbie
